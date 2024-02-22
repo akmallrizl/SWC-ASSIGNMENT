@@ -1,0 +1,17 @@
+#BlueJ class context
+comment0.target=FlowerShop
+comment1.params=
+comment1.target=FlowerShop()
+comment2.params=index\ flower
+comment2.target=void\ addFlower(int,\ Flower)
+comment3.params=
+comment3.target=void\ displayAllFlowers()
+comment4.params=
+comment4.target=double\ calculateTotalValue()
+comment5.params=name
+comment5.target=Flower\ searchFlowerByName(java.lang.String)
+comment6.params=name\ quantity
+comment6.target=void\ restockFlower(java.lang.String,\ int)
+comment7.params=args
+comment7.target=void\ main(java.lang.String[])
+numComments=8
